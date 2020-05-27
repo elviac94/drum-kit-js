@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+    background: url('./images/fondo.jpg') bottom center;
     background-size: cover;
   }
   
@@ -37,7 +37,7 @@ html {
     border-color: #ffc600;
     box-shadow: 0 0 1rem #ffc600;
   }
-  
+
   kbd {
     display: block;
     font-size: 4rem;
